@@ -1,2 +1,0 @@
-# IMDBTask
-Created with CodeSandbox
